@@ -1,56 +1,36 @@
-<h1 align="center">👋 About Me</h1>
+# 👋 Hi, I'm Merdan
 
-<p align="center">
-  Hey! I'm <strong>Merdan</strong>, an 18-year-old aspiring game engine developer from Germany. 🇩🇪
-</p>
+I'm an 18-year-old developer and tech enthusiast from Germany 🇩🇪
 
 ---
 
 ## 🛠 About Me
-- Currently developing **Chainsaw Engine**, a game engine written in **C++** using **CMake**.
-- Passionate about **video game programming** and **science**.
-- Interested in **graphics, AI, and general programming concepts**.
-- Learning-focused approach with AI: I use it as a tool to enhance my understanding, not to copy work.
-- Often rely on **OpenGL, CMake documentation, and programming cheat sheets** for reference.
+- Passionate about **programming**, **technology**, and **video games**.  
+- Experienced with **C++**, **C#**, and **Python**, currently learning **Java**, **HTML**, and **CSS**.  
+- Enjoy exploring how things work — from **building PCs** to understanding **graphics and rendering**.  
+- Have worked with **Unity** and **Unreal Engine**, which sparked my interest in how game engines function internally.  
+- Currently developing **Chainsaw Engine**, a personal project written in **C++** using **CMake**, mainly for learning and experimentation.  
 
 ---
 
 ## ⚡ Current Status
-- The engine is under active development.
-- I can't work on it every day due to school, but I aim to release a stable version soon.
-- Once released, you will be able to **create your own games without a pre-existing game engine**.
+- Working on **Chainsaw Engine** in my free time while balancing school.  
+- The goal is to eventually make it possible to **build small games from scratch**.  
+- Constantly learning and improving in **graphics programming**, **optimization**, and **software design**.  
 
 ---
 
 ## 📚 Interests
-- Game engine development
-- Real-time graphics and rendering
-- AI-assisted programming for learning
-- General programming tips, tricks, and optimizations
+- Game development and programming concepts  
+- Real-time rendering and graphics  
+- PC hardware and system building  
+- Performance optimization and clean code  
+- General software architecture  
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: [merdo](https://github.com/merdolvl)
-- Feel free to reach out if you have questions, collaboration ideas, or just want to chat about programming!
+- **GitHub:** [merdo](https://github.com/merdo)  
+- Open to chatting about **programming**, **tech**, or **game development** — feel free to reach out!  
 
-
-
-
-
-
-
-<!--
-**merdolvl/merdolvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
