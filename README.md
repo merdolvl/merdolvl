@@ -30,7 +30,7 @@ I'm an 18-year-old developer and tech enthusiast from Germany 🇩🇪
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [merdo](https://github.com/merdo)  
+- **GitHub:** [merdo](https://github.com/merdolvl)  
 - Open to chatting about **programming**, **tech**, or **game development** — feel free to reach out!  
 
 ---
