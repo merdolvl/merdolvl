@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Merdan
+# 👋 Hey, merdo here,
 
 I'm an 18-year-old developer and tech enthusiast from Germany 🇩🇪
 
