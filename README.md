@@ -12,7 +12,7 @@ I'm an 18-year-old developer and tech enthusiast from Germany 🇩🇪
 
 ## ⚡ Current Status
 - I was working on **Chainsaw Engine** but my interest are gone :(.  
-- So I am working for a new Project inside Unity 6.0 it calls *Schwert Kunst Internet** with a friend [TQtsunami](https://github.com/TQtsunami)
+- So I am working for a new Project inside Unity 6.0 it calls *Schwert Kunst Internet* with a friend [TQtsunami](https://github.com/TQtsunami)
 
 ---
 
