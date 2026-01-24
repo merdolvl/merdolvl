@@ -23,7 +23,9 @@ I'm an 18-year-old developer and tech enthusiast from Germany 🇩🇪
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [merdo](https://github.com/merdolvl)  
+- **GitHub:** [merdo](https://github.com/merdolvl)
+- **YouTube:** [dev-Rin](https://www.youtube.com/@eHz_dev_Rin)
+- **Twitch:** [merdolvl](https://www.twitch.tv/merdolvl)
 - Open to chatting about **programming**, **tech**, or **game development** — feel free to reach out!  
 
 ---
