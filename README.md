@@ -5,8 +5,9 @@ I'm an 19-year-old developer and tech enthusiast from Germany 🇩🇪
 ---
 
 ## 🛠 My Work
-- Currently, I'm working full-time on the Chainsaw Engine. I’m aiming for a release later this year, but a beta will definitely be ready by January at the latest.
-- Alongside that, I’ve been collaborating with TQtsunami on a Unity 6 project called Schwert Kunst Internet, though that's currently in a deprecated state as I focus on the engine.
+- Chainsaw Engine: My primary focus. A custom game engine built for high performance. Currently in active development, with a technical showcase scheduled for January 2028.
+- VOS (VanillaOS): Collaborating with TQtsunami on a core OS project. More details coming in 2027.
+- Schwert Kunst Internet: [Archived/Deprecated] A previous Unity 6 collaboration; currently paused to prioritize engine architecture development.
   
 ## 📚 Interests
 - Software Development: I’m constantly working to sharpen my programming skills, specifically within game dev and core architecture.
